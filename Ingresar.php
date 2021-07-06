@@ -12,7 +12,7 @@ if ($conn->connect_error) {
 }
 
 $sql = "INSERT INTO usuario (id_usuario, nombre_usuario, fecha)
-VALUES ('1', 'arturo', '1992/07/03')";
+VALUES ('2', 'juan', '1992/07/03')";
 
 if ($conn->query($sql) === TRUE) {
   echo "New record created successfully";
