@@ -7,7 +7,7 @@
 
 <body>
 <p>Bienvenidos a la web del Grupo 1 del curso de PDM de la PUCP</p>
-<p><a href="index.php">Inicio</a> | <a href="Contactenos.php">Contactenos</a> | <a href="Ingresar.php">Ingresar</a></p>
+<p><a href="index.php">Inicio</a> | <a href="El proyecto.php">El proyecto</a> | <a href="Como funciona.php">¿Cómo funciona?</a> | <a href="Contactenos.php">Contactenos</a> | <a href="Contactenos.php">Ingresar</a></p>
 <p>Hola estas en inicio</p>
 </body>
 </html>
